@@ -1,0 +1,147 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital@1&family=Sacramento&family=Staatliches&family=Inconsolata&family=Amatic+SC:wght@700&display=swap');
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: url(fondo.jpg) fixed no-repeat center center;
+	background-size: cover;
+
+}
+.principal{
+	font-family: 'Sacramento', cursive;
+	font-size: 170;
+	top: 50px;
+	left: 20%;
+	position: absolute;
+}
+.principal2{
+	font-family: 'Sacramento', cursive;
+	font-size: 170;
+	top: 230px;
+	left: 17%;
+	position: absolute;
+}
+.y{
+	font-family: 'Sacramento', cursive;
+	font-size: 80;
+	top: 200px;
+	left: 40%;
+	position: absolute;
+}
+.edit{
+	top: 450px;
+	left: 18%;
+	font-size: 50;
+	font-family: 'Amatic SC', cursive;
+	position: absolute;
+}
+.edit1{
+	top: 500px;
+	left: 28%;
+	font-size: 50;
+	font-family: 'Amatic SC', cursive;
+	position: absolute;
+}
+.edit2{
+	top: 600px;
+	left: 18%;
+	font-size: 50;
+	font-family: 'Staatliches', cursive;
+	position: absolute;
+}
+.edit3{
+	font-family: 'Staatliches', cursive;
+	font-size: 60;
+	top: 770px;
+	left: 18%;
+	position: absolute;
+}
+.edit4{
+	font-family: 'Staatliches', cursive;
+	font-size: 110;
+	top: 650px;
+	left: 18%;
+	position: absolute;
+}
+.edit5{
+	top: 620px;
+	left: 42%;
+	font-size: 40;
+	font-family: 'Inconsolata', monospace;
+	position: absolute;
+}
+.edit6{
+	top: 730px;
+	left: 38%;
+	font-size: 40;
+	font-family: 'Inconsolata', monospace;
+	position: absolute;
+}
+.link1{
+	top: 670px;
+	left: 40.5%;
+	font-size: 40;
+	font-family: 'Staatliches', cursive;
+	color: #8d4925;
+	position: absolute;
+}
+.link2{
+	top: 780px;
+	left: 30%;
+	font-size: 40;
+	font-family: 'Staatliches', cursive;
+	color: #8d4925;
+	position: absolute;
+}
+.link3{
+	text-align: center;
+	font-size: 40;
+	font-family: 'Staatliches', cursive;
+	color: black;
+	position: absolute;
+	top: 40px;
+	left: 60%;
+}
+.i1{
+	position: absolute;
+	top: 200px;
+	left: 530px;
+}
+.i2{
+	position: absolute;
+	top: 250px;
+	left: 530px;
+}
+.i3{
+	position: absolute;
+	top: 300px;
+	left: 530px;
+}
+.i4{
+	position: absolute;
+	top: 350px;
+	left: 650px;
+}
+.l1{
+	font-size: 20;
+	font-family: 'Inconsolata', monospace;
+	position: absolute;
+	top: 200px;
+	left: 450px;
+}
+.l2{
+	font-size: 20;
+	font-family: 'Inconsolata', monospace;
+	position: absolute;
+	top: 250px;
+	left: 450px;
+}
+.l3{
+	font-size: 20;
+	font-family: 'Inconsolata', monospace;
+	position: absolute;
+	top: 300px;
+	left: 450px;
+}
